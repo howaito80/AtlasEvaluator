@@ -125,6 +125,7 @@ bool Evaluator::ReadFolder(const QString &path)
             continue;
 
         QString subPath = it.filePath().mid(assetRoot.length() + 1, fn.length() - assetRoot.length() - 1);
+        subPath.replace('/','\\');
         m_pacInAsset.push_back(subPath);
     }
 
