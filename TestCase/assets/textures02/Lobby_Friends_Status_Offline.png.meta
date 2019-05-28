@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "3ccf3aba-bc14-4b61-9eba-c5c1cd2b637a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Lobby_Friends_Status_Offline": {
+      "ver": "1.0.4",
+      "uuid": "dcd49827-5ae5-4b21-9e0d-347975350431",
+      "rawTextureUuid": "3ccf3aba-bc14-4b61-9eba-c5c1cd2b637a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 40,
+      "height": 40,
+      "rawWidth": 40,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "bb680558-2642-40f9-b69e-4892d2bbc3d2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "HUD_WeaponsFrame_FireRate_Burst": {
+      "ver": "1.0.4",
+      "uuid": "a560d7d3-7dc3-4f29-922c-9a0701edcb5e",
+      "rawTextureUuid": "bb680558-2642-40f9-b69e-4892d2bbc3d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 28,
+      "height": 36,
+      "rawWidth": 28,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

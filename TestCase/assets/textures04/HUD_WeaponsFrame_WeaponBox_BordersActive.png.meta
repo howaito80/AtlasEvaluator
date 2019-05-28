@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "f638e5ca-1b57-48d8-9121-7c008096de0e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "HUD_WeaponsFrame_WeaponBox_BordersActive": {
+      "ver": "1.0.4",
+      "uuid": "0945b17f-a5c7-4885-90a7-a9ca84d1ce98",
+      "rawTextureUuid": "f638e5ca-1b57-48d8-9121-7c008096de0e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 128,
+      "rawWidth": 64,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

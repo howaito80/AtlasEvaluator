@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "40a466ba-4fbb-4db8-b6e3-33ffbd6c615c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Lobby_CreateClass_WeaponSelect_Hover": {
+      "ver": "1.0.4",
+      "uuid": "79e5003c-edd5-4ff1-95a8-12e68c2fc228",
+      "rawTextureUuid": "40a466ba-4fbb-4db8-b6e3-33ffbd6c615c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 198,
+      "rawWidth": 128,
+      "rawHeight": 198,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

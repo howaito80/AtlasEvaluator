@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "0b682e1e-4720-45c9-adb8-ef3d30513dec",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "HUD_WeaponsFrame_Energy_Background": {
+      "ver": "1.0.4",
+      "uuid": "2594bbdd-b6e3-4ba3-9815-d0d048801ca4",
+      "rawTextureUuid": "0b682e1e-4720-45c9-adb8-ef3d30513dec",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 318,
+      "height": 368,
+      "rawWidth": 318,
+      "rawHeight": 368,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "62a657bb-ea3d-46a3-ae3d-daafc28e4f89",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "HUD_GameState_VictoryIndicator_Green": {
+      "ver": "1.0.4",
+      "uuid": "9287a69d-4852-4945-bef7-b2dfe535968d",
+      "rawTextureUuid": "62a657bb-ea3d-46a3-ae3d-daafc28e4f89",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 344,
+      "height": 344,
+      "rawWidth": 344,
+      "rawHeight": 344,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
